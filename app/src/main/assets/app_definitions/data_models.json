@@ -1,0 +1,24 @@
+{
+  "models": [
+    {
+      "modelClassName": "Contact",
+      "primaryKeys": [
+        "id"
+      ],
+      "attributes": [
+        {
+          "name": "firstName",
+          "type": "String"
+        },
+        {
+          "name": "lastName",
+          "type": "String"
+        },
+        {
+          "name": "phone",
+          "type": "text"
+        }
+      ]
+    }
+  ]
+}
